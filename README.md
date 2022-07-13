@@ -6,7 +6,11 @@ A music server much like mopidy written in rust (backend) and javascript (fronte
 The backend is written using the Rust actix framework and a serialport library. The server connects to an arudino over USB-Serial and sends strings of Hex code to change the colour of a WS2812B LED strip. The frontend sends HEX strings over WebSocket.
 
 <h1>Frontend</h1>
-![My Remote Image](https://raw.githubusercontent.com/gregorychristian/Rust-music-server/main/Frontend.jpeg)
+<img
+  src="https://raw.githubusercontent.com/gregorychristian/Rust-music-server/main/Frontend.jpeg"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 The frontend is currently written in Javascript (iro.js library), CSS and HTML. Clicking on the visulizer tab button will reveal the iro.js Colour Picker. A TypeScript file explorer will be added later.
 
