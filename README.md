@@ -15,7 +15,8 @@ The backend is written using the Rust actix framework and a serialport library. 
 The frontend is currently written in Javascript (iro.js library), CSS and HTML. Clicking on the visulizer tab button will reveal the iro.js Colour Picker. A TypeScript file explorer will be added later.
 
 <h1>Features</h1>
-[x] Add Colour Picker
-[] TypeScript file Explorer
-[] Music Player
-[] Audio visualizer customisation
+
+-[x] Add Colour Picker
+-[ ] TypeScript file Explorer
+-[ ] Music Player
+-[ ] Audio visualizer customisation
