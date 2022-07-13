@@ -6,3 +6,4 @@ Backend:
 The backend is written using the Rust actix framework and a serialport library. The server connects to an arudino over USB-Serial and sends strings of Hex code to change the colour of a WS2812B LED strip. The frontend sends HEX strings over WebSocket.
 
 Frontend:
+![My Remote Image](https://raw.githubusercontent.com/gregorychristian/Rust-music-server/main/Frontend.jpeg)
