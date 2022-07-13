@@ -17,6 +17,6 @@ The frontend is currently written in Javascript (iro.js library), CSS and HTML. 
 <h1>Features</h1>
 
 - [x] Add Colour Picker
--[ ] TypeScript file Explorer
--[ ] Music Player
--[ ] Audio visualizer customisation
+- [ ] TypeScript file Explorer
+- [ ] Music Player
+- [ ] Audio visualizer customisation
